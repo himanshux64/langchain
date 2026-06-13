@@ -1,5 +1,10 @@
 from langchain_core.prompts import PromptTemplate
 
+############################
+# Template Save in Json  ---> template.json
+
+################################
+
 template =PromptTemplate(
     template ="""
 Please summarize the research paper titled:{paper_input} with the following specifications:

@@ -12,14 +12,15 @@ style_input = st.selectbox("Select EXplaination Style",["Select...","Begginer-Fr
 
 length_input = st.selectbox("Selct Expalination Length",["Select...","Short(1-2 paragraph)","Medium(4-8 Pargraph)","Long(Detail Explaination)"])
 
+# load template json
 template =load_prompt('template.json')
 
-# # fill placeholder
-prompt = template.invoke({
-    'paper_input':paper_input,
-    'style_input':style_input,
-    'length_input':length_input
-})
+# # # fill placeholder
+# prompt = template.invoke({
+#     'paper_input':paper_input,
+#     'style_input':style_input,
+#     'length_input':length_input
+# })
 
 
 token = os.getenv("HUGGINGFACEHUB_API_TOKEN")
@@ -34,7 +35,7 @@ llm = HuggingFaceEndpoint(
 model = ChatHuggingFace(llm=llm)
 
 if st.button('Summarize'):
-    chain = template | model
+    chain = template | model  # create a chain
     result=chain.invoke({
     'paper_input':paper_input,
     'style_input':style_input,
