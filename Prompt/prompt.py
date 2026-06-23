@@ -19,5 +19,5 @@ llm = HuggingFaceEndpoint(
 
 model = ChatHuggingFace(llm=llm)
 
-result = model.invoke("write a 5 line of paragraph on Sanskriti University")
+result = model.invoke("write a 5 line of paragraph on nalanda University")
 print(result.content)
