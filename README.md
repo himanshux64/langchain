@@ -1,12 +1,12 @@
-## LangChain Learning Journey
+# LangChain Learning Journey
 
-📚 Overview
+## 📚 Overview
 
 This repository contains my hands-on learning journey with the LangChain framework. The goal is to understand how to build AI-powered applications using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), embeddings, vector databases, and prompt engineering.
 
 This project is focused on learning concepts step by step through practical examples.
 
-🚀 Learning Objectives
+### 🚀 Learning Objectives
 
 - Learn the fundamentals of LangChain
 - Understand Prompt Templates
@@ -18,7 +18,7 @@ This project is focused on learning concepts step by step through practical exam
 - Implement Retrieval-Augmented Generation (RAG)
 - Build AI applications using real-world examples
 
-🛠️ Technologies
+### 🛠️ Technologies
 
 - Python
 - LangChain
@@ -29,7 +29,7 @@ This project is focused on learning concepts step by step through practical exam
 - Hugging Face
 - Jupyter Notebook
 
-📖 Topics Covered
+## 📖 Topics Covered
 
 - Introduction to LangChain
 - Prompt Templates
@@ -46,7 +46,7 @@ This project is focused on learning concepts step by step through practical exam
 - Agents (Coming Soon)
 - Tools (Coming Soon)
 
-🎯 Future Goals
+###🎯 Future Goals
 
 - Build a PDF Question Answering System
 - AI Chatbot with Memory
@@ -62,11 +62,11 @@ This project is focused on learning concepts step by step through practical exam
 
 - pip install -r requirements.txt
 
-🤝 Contributions
+### 🤝 Contributions
 
 Suggestions and improvements are always welcome. Feel free to fork the repository and create a pull request.
 
-⭐ Support
+### ⭐ Support
 
 If you found this repository helpful, consider giving it a star.
 
