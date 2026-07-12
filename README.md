@@ -1,4 +1,4 @@
-LangChain Learning Journey
+## LangChain Learning Journey
 
 📚 Overview
 
@@ -29,15 +29,6 @@ This project is focused on learning concepts step by step through practical exam
 - Hugging Face
 - Jupyter Notebook
 
-📂 Project Structure
-
-.
-├── notebooks/
-├── examples/
-├── data/
-├── requirements.txt
-├── README.md
-
 📖 Topics Covered
 
 - Introduction to LangChain
@@ -65,11 +56,11 @@ This project is focused on learning concepts step by step through practical exam
 
 ⚙️ Installation
 
-git clone <repository-url>
+- git clone <repo-name>
 
-cd <repository-name>
+- cd <repository-name>
 
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 🤝 Contributions
 
