@@ -54,7 +54,7 @@ This project is focused on learning concepts step by step through practical exam
 - AI Research Assistant
 - Deploy LangChain Applications
 
-⚙️ Installation
+## ⚙️ Installation
 
 - git clone <repo-name>
 
