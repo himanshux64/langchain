@@ -25,7 +25,6 @@ This project is focused on learning concepts step by step through practical exam
 - OpenAI / Open Source LLMs
 - Ollama
 - ChromaDB
-- FAISS
 - Hugging Face
 - Jupyter Notebook
 
