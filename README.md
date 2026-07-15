@@ -1,10 +1,6 @@
-# LangChain Learning Journey
-
-## 📚 Overview
-
-This repository contains my hands-on learning journey with the LangChain framework. The goal is to understand how to build AI-powered applications using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), embeddings, vector databases, and prompt engineering.
-
-This project is focused on learning concepts step by step through practical examples.
+## LangChain Framework
+### Overview
+This project demonstrates how to build AI-powered applications using the LangChain framework. It provides examples of integrating Large Language Models (LLMs), prompt templates, chains, document loaders, embeddings, vector databases, and Retrieval-Augmented Generation (RAG) to create intelligent applications.
 
 ### 🚀 Learning Objectives
 
