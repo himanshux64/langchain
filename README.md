@@ -41,7 +41,7 @@ This project demonstrates how to build AI-powered applications using the LangCha
 - Agents (Coming Soon)
 - Tools (Coming Soon)
 
-###🎯 Future Goals
+🎯 Future Goals
 
 - Build a PDF Question Answering System
 - AI Chatbot with Memory
